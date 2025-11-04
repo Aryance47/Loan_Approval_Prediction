@@ -1,1 +1,1 @@
-# Loan_Approval_Prediction
+This project focuses on building a machine learning model to predict loan approval status using a dataset of applicant demographic and financial information. It involves data preprocessing, missing value treatment, exploratory data analysis, feature encoding, and model training with algorithms such as Random Forest, K-Nearest Neighbors, Support Vector Machine, and Logistic Regression. The project evaluates model performances using accuracy metrics and demonstrates the ability to predict loan eligibility effectively.
